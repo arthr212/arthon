@@ -1,0 +1,3 @@
+#pylint:disable=E0001
+
+worker: 'youthon1 youthon.py''
